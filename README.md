@@ -8,6 +8,13 @@ at the bridge level and the pty is wrapper through a thin layer of JSON and sent
 
 This means you can implement a WSSH client in just a few lines of code, even for a web browser.
 
+Install (WIP)
+-------------
+
+```
+$ sudo apt-get install libffi-dev
+```
+
 Usage
 -----
 
