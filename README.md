@@ -13,6 +13,8 @@ Install (WIP)
 
 ```
 $ sudo apt-get install libffi-dev
+$ pip install -r requirements_server.txt
+$ python setup.py install
 ```
 
 Usage
