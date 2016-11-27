@@ -8,11 +8,11 @@ at the bridge level and the pty is wrapper through a thin layer of JSON and sent
 
 This means you can implement a WSSH client in just a few lines of code, even for a web browser.
 
-Install (WIP)
--------------
+Install (Raspi Zero)
+--------------------
 
 ```
-$ sudo apt-get install libffi-dev
+$ sudo apt-get install libffi-dev libssl-dev
 $ pip install -r requirements_server.txt
 $ python setup.py install
 ```
